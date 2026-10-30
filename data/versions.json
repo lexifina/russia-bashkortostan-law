@@ -1,0 +1,1145 @@
+{
+ "country": "RU-BA",
+ "acts": [
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Republic of Bashkortostan: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region02",
+   "versions": [
+    {
+     "from": "2015-06-26",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "4141ebed80ea37611deaff5d1959b0fac61b2b98a84d1a4c85db34e7d8510e36"
+    },
+    {
+     "from": "2015-07-02",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "760cb8cbad0c98785600af021cdfb598b08aac7bbf38e779000d6b71daf706fc"
+    },
+    {
+     "from": "2015-07-03",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "544b48323fc322b3f7fd2595f321803ba677c0177d345c470abf3a4509b2e0aa"
+    },
+    {
+     "from": "2015-09-21",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "3b6181c032febb9534fee659c48784cf03048b4be15760b5a1d60de90b3e366a"
+    },
+    {
+     "from": "2015-09-22",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "50f90f47efcd29a4d931cb42b0807da2919702918dde07f88a00f712045141b6"
+    },
+    {
+     "from": "2015-10-28",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "8b218c10682dbdbe813cdcefc08a6c7f2adc6137c12a7bd2ebe94909510d0c83"
+    },
+    {
+     "from": "2015-11-05",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "988ad94a62a5d41350a5c8c933bcc2cf2c34810911562e33503f56b1d06370e4"
+    },
+    {
+     "from": "2015-11-06",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "7f5ae086247d8231908ee9fd83fdb86decddbd64fd883b5a184a761cc862fb98"
+    },
+    {
+     "from": "2015-11-10",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "1d445d64f79ee7f1b9759d9deba2f5e7fbd113cdf76a8946981626da5a4b40c2"
+    },
+    {
+     "from": "2015-11-30",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "43abb3c68a9378fd7bc733568c927a0a5aed289c24744623286f53d1486eda1e"
+    },
+    {
+     "from": "2015-12-04",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "d41d8a5d773ca6c5caa1778af6ab951cbb7fafcf78e8ccd85b32fc5347483b34"
+    },
+    {
+     "from": "2015-12-07",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "63e90730a5f9ff1a2a9e536743baeb42578cb90e2e8f74f536e2c5ea60d1f663"
+    },
+    {
+     "from": "2015-12-09",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "a1efa4f0f9c3a4d18b1e6b8ef61c607bef2120953856327ba91c888bb609d987"
+    },
+    {
+     "from": "2015-12-28",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "de36d85d3289fc3c3dadfcdb96483ec7441c4b9e494b541e82ebb6b4c36e44d7"
+    },
+    {
+     "from": "2015-12-31",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "0413d5f340b03daadc4381a6bfbc5ea786d14ffa45b8da6ae546c976134f31be"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Republic of Bashkortostan: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region02",
+   "versions": [
+    {
+     "from": "2016-02-03",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "f6808d8fa8f04b5434d62c21dd16387c6a9ec3cd54afbcade2468b0461473054"
+    },
+    {
+     "from": "2016-02-08",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "b43926311f623f66af64093371f32266f983bd9a181a17030e52452cd3252655"
+    },
+    {
+     "from": "2016-03-03",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "1f73c2e194f9f9ccf709f6d6249213775051f1499a3101d9d198cea74597b2b5"
+    },
+    {
+     "from": "2016-03-11",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "6fc980c03aa298d3cb58fdd757e13bfe8ffdc8e59f7beedb0800aef753dffd68"
+    },
+    {
+     "from": "2016-03-31",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "0ef20e644934daecb1d2d57580ed804ed7f85351a01fa064e9ee310d4773236c"
+    },
+    {
+     "from": "2016-04-06",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "dcf9d1b277738ed2da45e3251787bdf8e59f47e26549c9753c3c9c55b4fe283b"
+    },
+    {
+     "from": "2016-05-06",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "4e07c221fb71909a8e9eee227d0a9b26e0e013e6d5b9cc3ff8069a54b44da67a"
+    },
+    {
+     "from": "2016-05-27",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "3f8530b06b1275d48a3c96e0bae021b753bb62f7e1248230dc9d9dc833aa2c4f"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "eb5d7acf13c13ecce8d32b2fd7bba2814588a442906f068e8e7613368ee8e009"
+    },
+    {
+     "from": "2016-06-24",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "1401d699155c1f0aabe95c1abc50f8e51acbbd56fd31411461677802b8421827"
+    },
+    {
+     "from": "2016-07-13",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "5b8a1ff689b3b3b348106419a2a213c4fa16667c7c44e2c3b0198861c0834421"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "fab789cbdcd3e0bc16b9aa011d177774d575bb5f0367d8ae426870cd2fff84f0"
+    },
+    {
+     "from": "2016-11-03",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "7104ea2bf61cc76dae9ddb53f4a5ba5c37e65e9fb7a256bd7500c4aeecb48959"
+    },
+    {
+     "from": "2016-11-08",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "fc00725f37d25248f14a32a3547de6b396e607e890323a83887723c6b91d5c3e"
+    },
+    {
+     "from": "2016-11-09",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "d33767d85dd43bda9930a5781c56cde4cbb6b0edd055d1d71dfad2ca727b7087"
+    },
+    {
+     "from": "2016-12-09",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "83a22b53af441b562f5f82ae6b50bc61d54a7daad32dd515e94d07fa280a5662"
+    },
+    {
+     "from": "2016-12-14",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "292c1340e8606f9d9d5d22626d5ac6a8b535e5075f01e4f0788ba95821b8b2f5"
+    },
+    {
+     "from": "2016-12-29",
+     "units": 133,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "b8586d5376102e9cd464b6d149b67154f8df53ed8a921cde6284e17e1343472a"
+    },
+    {
+     "from": "2016-12-30",
+     "units": 134,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "701d6ca7d1056f5ac31347e68cd5e41e9af9856bab323c7e2a2ddcc5b1955101"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Republic of Bashkortostan: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region02",
+   "versions": [
+    {
+     "from": "2017-02-06",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "8d6e7f8d6e6c350db8a4aeb62261626484a1336b9b8b03283dfff48ef1391d42"
+    },
+    {
+     "from": "2017-03-01",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "da08db0e8d4e4f12bb0c946fa01758be6a54d204768ca893183e42a388b215de"
+    },
+    {
+     "from": "2017-03-07",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "fe08f28ccc26cb717890bca89569627afd9e670421e7e9ad3d702b7500d71353"
+    },
+    {
+     "from": "2017-04-03",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "12db1a3991099ea5569a9331c5706be7f1b6bc20c53bd3e255f2c3d06520fbbf"
+    },
+    {
+     "from": "2017-04-04",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "f3d2d49815537aab5e5b52e496f3053ff017883ede0782d2dae8b75557009455"
+    },
+    {
+     "from": "2017-04-06",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "2eb9b10649824470728ad2a699547947069bc5dbfc13a742177cd6db1976d143"
+    },
+    {
+     "from": "2017-05-02",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "a6654dd9e1844f6ca9c8c21b164dd3c2a1675cd0879fbee012f40021f847b61b"
+    },
+    {
+     "from": "2017-05-30",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "84284af64c94bfad0ac7c4c5ec9fbbc6072d967ad1da642dd1ce94c9e1bd7b53"
+    },
+    {
+     "from": "2017-06-21",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "2964165c9ee5fe5acf674f9bbe17f1cb1b94cf6469686bc4d02a40a916fc071a"
+    },
+    {
+     "from": "2017-07-13",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "75ed1a17a30c37418d4576742c05477771dc920c93cf62f4d575d7e5e7f80065"
+    },
+    {
+     "from": "2017-07-19",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "cb3e5dadb49c9d70d016cc22cc63ac68fe10b21a47f57b5079c97f72231ce805"
+    },
+    {
+     "from": "2017-09-29",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "175e7bb065521e48e932c56aca722088be2eb4cff42106d8c36b0ce11a7dd785"
+    },
+    {
+     "from": "2017-11-08",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "5d9d818bf7a7410a618f6d71423ffdc377a6080012251d5cbb0845381e50aa8e"
+    },
+    {
+     "from": "2017-11-14",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "545059a1e9e2888ccc81a2c3528c2c1d9d4c64275e499deb34dabc35e4d8b36b"
+    },
+    {
+     "from": "2017-12-08",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "ddbb4880c28a361b1dccb14b784b8f6a389daad569c656dba5b9570a51fef25e"
+    },
+    {
+     "from": "2017-12-27",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "e2fdac8b262a5d95fbcaed08284b4e54f803c4d2e2663fb72376499bd11bf9b1"
+    },
+    {
+     "from": "2017-12-31",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "da0b69c8ae460de91c867b2face359b3d7e8b1e3f856a72541bc2dbbbf2b70c9"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Republic of Bashkortostan: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region02",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "6461c1008660ca29b8cc90be3f6f1e3d8c69e1c56f6ab5f81f8107f8e1eb929e"
+    },
+    {
+     "from": "2018-02-02",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "16baf9149a9dcc2037880b9bf2dd6dc21f8cf0f62664912f7522c982405f1907"
+    },
+    {
+     "from": "2018-03-07",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "315f2b98a27f425263063c473b582105e0c48772050a83ae96ba3caf21214ed1"
+    },
+    {
+     "from": "2018-04-02",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "42ad186f2d73c280ea846c2ac6e182f0510e2cef7a26ec569c45905bd364e3a8"
+    },
+    {
+     "from": "2018-05-04",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "91f51c6b993d7d591fc2325e2ce3ad7225383ac3534789c684163350a1c69f9f"
+    },
+    {
+     "from": "2018-06-26",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "08528521015de35182754b74a7c8d3ed1a7e5b591a26f6e29159200423f9ff9d"
+    },
+    {
+     "from": "2018-06-29",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "90e4acdae596665f64c8698a54cade7b2fabe4ddcdca5961519498e9c063b455"
+    },
+    {
+     "from": "2018-09-12",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "f0ca4bf9eb61d02f6fd889359b7b9a1e4e8922bc4a7f6cc7280c951d401ea703"
+    },
+    {
+     "from": "2018-11-08",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "0ff036f1ba439ae7cbbef35b97d642c82bbf2ccb5bd356a9c9589cbc3f69da19"
+    },
+    {
+     "from": "2018-11-12",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "7cd1d777752537b895993884b79de80efa2f8a7024cc5883459e7ec79807f4cb"
+    },
+    {
+     "from": "2018-12-06",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "2279bb80681728156a5a6b6b44c719c2312fc6225df6b70ad9727d9fed3dc0f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Republic of Bashkortostan: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region02",
+   "versions": [
+    {
+     "from": "2019-06-03",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "5d9c135f299ca35fedbedb99129dd886df254f3650db6f36002eff8523d193d0"
+    },
+    {
+     "from": "2019-12-24",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "95a8f082e0ec7842d4485113ccb6e6b89f9825709ec83fd6647c0dc4adf71ae9"
+    },
+    {
+     "from": "2019-12-31",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "8ed30b09661ae66d91bcb45059a438c2bf75e73754853cd4ccd71a6b6e70f9fc"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Republic of Bashkortostan: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region02",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "a6c8d6d29e3f815bd26e5500b600f41714567d4d7a68fb89417e2edc155ab4e8"
+    },
+    {
+     "from": "2020-03-06",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "3d859e3c7c1511d0d037b487362ebde11613407efe49f529cbd754f6a289c2eb"
+    },
+    {
+     "from": "2020-03-30",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "4c0e2ed78b0fb7fc82d63ade3dcf03642bda2fc00e4181956ee9052104a6de7c"
+    },
+    {
+     "from": "2020-04-01",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "d9a830edcac8215191cbb50d91ca840cb07f45c050f7616927837364a4fcc5f8"
+    },
+    {
+     "from": "2020-04-11",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "c74b5ed787430309f98c248bd70002d3691a4bcd6bd458c62b982d1186360f8a"
+    },
+    {
+     "from": "2020-04-30",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "3275264963f6fb1fbd978d4d32b2b733d1c370b67b1f3e3cd797d6a538db30d3"
+    },
+    {
+     "from": "2020-05-15",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "d164186fca727172f7d4a3ed20260de89039cc291da1d2d2216787799bbfedb2"
+    },
+    {
+     "from": "2020-06-03",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "c37e314344410d1af4b463cd439a2c3c1c4e48b6c85e0c5f4e3eef5dc1be23ca"
+    },
+    {
+     "from": "2020-06-05",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "b9b36e41cc662e55861dd5f05879bdf1e0159db66b8cb6681e8b4cf85450bc67"
+    },
+    {
+     "from": "2020-07-03",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "bc278cfae0763597bf78b424f512dee979ce6c63c66d6811e941073e1e0af461"
+    },
+    {
+     "from": "2020-07-06",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "45351bebc7098b17f4c339e45ec1bf9575a02edecab0f0660cb5c4975129cbe4"
+    },
+    {
+     "from": "2020-07-10",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "0369a29376413609d894088bf5182fcbfe1d31b4d0b721704e3745005f78e519"
+    },
+    {
+     "from": "2020-09-17",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "86ac8b4552ca7e962b25ff8643ebf26ad3157b951dabeb9187753f40969d38b5"
+    },
+    {
+     "from": "2020-09-25",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "6eeaa0463b8e92232f49a6625f76a5be0816ba56d7abbb511cf73312ba6b350b"
+    },
+    {
+     "from": "2020-11-10",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "a9f295a49e20dea1b511216db7e9e0b4c26aa825cef394b0d5de70bfce122dde"
+    },
+    {
+     "from": "2020-12-04",
+     "units": 127,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "35a5cd358539347b664ffd95d1414842880e1149087d1ba088fc0a0466ac0407"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "797bede0ef1f26005fe339fd7df9363fab70a33d37e38dffd6bf09447e961b82"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 159,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "db4ad8a2f1403da1533bc05b65e2b0409ec8eec34c8877078918dd5f007c4a43"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Republic of Bashkortostan: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region02",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "aa083e30d23f3baa6a7412de41978a8f539da4e849c50e3c1a588b4356c5fdba"
+    },
+    {
+     "from": "2021-02-13",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "74f3557e0e0b4b9431f5f6306a4c94b1c09eda7c53fdf4bf6db9a07340727cc5"
+    },
+    {
+     "from": "2021-03-04",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "9d9b54a0a4c95b9da1832db3de62db9b0d5bad560120c80705344d994254ca84"
+    },
+    {
+     "from": "2021-03-05",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "4679607f69d2cdc52dc95de2bc7c13bf0028845fc9ec6f38170ff7c282ae78b5"
+    },
+    {
+     "from": "2021-04-06",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "282682f051eb9e31964da75764af46b2169452e870fdd0eae418cf9efa5f1174"
+    },
+    {
+     "from": "2021-05-01",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "8c83627713c543755716c06e46224c9e9afa60f7ff1e9d0c87904bdf897069fe"
+    },
+    {
+     "from": "2021-05-14",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "b4c69bb29c5de0f4b8a72759ab4e2db8443c317da854cc884e680a779d3b8fd3"
+    },
+    {
+     "from": "2021-06-04",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "1868711776210cb807b8d46a9285fd5c219484e73269f21834b1b8808311950a"
+    },
+    {
+     "from": "2021-06-08",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "d65253a15bf9d17fdcec375fff4bb6b58189f57da49797f478a0ef00a0a563f0"
+    },
+    {
+     "from": "2021-06-29",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "2d4fee55bc19e3e8e1f7bbcb034f363c13de059c38e9b3a0880f290e16bc7539"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "e399040ff093d3fa5dce1472088bb310cc5f93044a20bab91cdcbceee5093fe2"
+    },
+    {
+     "from": "2021-07-06",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "0ce00cf91a40757e5cabe80d2e6fb120065bb897db76685d4b889e20755da191"
+    },
+    {
+     "from": "2021-07-09",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "e2476d723bb7258ef83a4a4721068b3f965924b0c62b4090b8cdbd336feef781"
+    },
+    {
+     "from": "2021-10-09",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "d442bb83e7378c3e52ec53e63773df58e638afb68b464c1dbc813d65ba1a9a65"
+    },
+    {
+     "from": "2021-10-13",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "4dd6d722496cf396c397a417b662c1b9b6a309b86b64e9b2bd71b090204a47c0"
+    },
+    {
+     "from": "2021-11-03",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "074167719f7d90ceeb397a333c9bdf864fa274e9c8619024d0bf40d5e166694e"
+    },
+    {
+     "from": "2021-12-06",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "7cd28dbdd094c04246be8c2bc084afca8f0046b8ef854289eea75e43aa6fcc3b"
+    },
+    {
+     "from": "2021-12-14",
+     "units": 111,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "dfe46d6136aa12226d3239e5b20f1dba9fd829b754030baf0be3e965be3accb3"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Republic of Bashkortostan: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region02",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "4c6b812a298c6462e1eba8925d6647478a7edb7c3d04c06c5563f60d7e2bb35e"
+    },
+    {
+     "from": "2022-02-11",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "f84e8f7a5edaa09b7f5dd49b80abf450c78778b0d8ab52f47c1397d59b4811db"
+    },
+    {
+     "from": "2022-03-02",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "f5ce93bd4349579dd27f4cf520f3fa836cdc2d89c862aac4fbd13aa97a26e946"
+    },
+    {
+     "from": "2022-04-07",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "751275111ac9509f69e9fb0a43035cb3bac061cd42fd4dc84899eb00e1b2f2bb"
+    },
+    {
+     "from": "2022-04-08",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "3f75c3440ad717bb5a5941290182fe3ca9754b33053552e92c7fd810f9ee567e"
+    },
+    {
+     "from": "2022-04-15",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "969bda0a99cd871d5a06402bdc34976f042258dea6f7547d7db76acf96a4b3f4"
+    },
+    {
+     "from": "2022-05-05",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "d940eab854e25f020acbfd796e77143a84312e2bd7c9dbcedc96274a8948760d"
+    },
+    {
+     "from": "2022-05-13",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "b9ee26f75d57171c514230172c8036f3ca73e3655b060980e178e54344ba2126"
+    },
+    {
+     "from": "2022-06-07",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "691ce2aae4513463696ebe69ed032cd3750708de93a412b0d6d235cd4036f485"
+    },
+    {
+     "from": "2022-10-27",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "1c6eaaed1f1b21b0005a043ddd62e15140f4711856fd8686aca4e81dfe4bb50d"
+    },
+    {
+     "from": "2022-11-22",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "1fc3bbc3c261f5c4d3acc1fc427ce6ab6afac8d37b7d8dc3e617fe01e3b927c0"
+    },
+    {
+     "from": "2022-11-24",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "ecbc31da85a32abbcad3d972a0fc79fca2c7f6e4e4d32f5e0f3578ab70bb95b7"
+    },
+    {
+     "from": "2022-12-22",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "44281b63e1aff7d4f8bd36208d137672fb244dc1050df66d35a50efb94e72f94"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Republic of Bashkortostan: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region02",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "f0972e5609eadecf037a8aa086ab256d11753ac8d3e26a2564257c0d08ed6436"
+    },
+    {
+     "from": "2023-03-02",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "cc4f355ff1b2044c545cb78b5ce884561a5fbe8d15fddf16c7d200f9840570a6"
+    },
+    {
+     "from": "2023-03-07",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "4e475c0c1893548707d0eeae8123836e6e9dc73486fd2f7218143dc89c740cba"
+    },
+    {
+     "from": "2023-04-11",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "d627cdb5b6e8861e687778c1d9cdc9c54b9f512f04bd9eba2c592dbd9c2c3fc1"
+    },
+    {
+     "from": "2023-05-04",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "e99484e511cf9163fff14f1738cbaf1cefce223a4606db570c7432aacda95218"
+    },
+    {
+     "from": "2023-06-06",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "779065d70b32e31e0993ccca488e591684a900238a89dcee2851d0eccdb30924"
+    },
+    {
+     "from": "2023-06-13",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "f16f5cacc84797bafff4323e7e64052975e43777c49ff8ea681dc54c08e6eab3"
+    },
+    {
+     "from": "2023-07-03",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "1177cb82529eb8b77e8e46cea5f699bf59a9014a3969d111d51283bf85642773"
+    },
+    {
+     "from": "2023-07-11",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "27c9e4ab368370ac8b1f12e5b4ab8eb699d860a26ab94f3fa4481569febad114"
+    },
+    {
+     "from": "2023-09-20",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "b32fbee2b694a4ed849897631f17b68a4e8812a4fe65495b58a2181a605f7343"
+    },
+    {
+     "from": "2023-09-22",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "3d4dd845d5d3913022578f5d5e3e16e76a05101b1d76818a7f831c17a6e52ef0"
+    },
+    {
+     "from": "2023-11-09",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "e8fa44b02857ef2201be10aa04c28abd0c7faccd4e5a1d7a2a205818b34ac321"
+    },
+    {
+     "from": "2023-12-05",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "0c7c1c05500e744d80c3b5f58447b8b94cb0f3db98c8f8db594985e5a7dc477e"
+    },
+    {
+     "from": "2023-12-06",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "d6a775cd867147e64d2ef3cef6cecda383ebcf8682c829d902da08929353ffa2"
+    },
+    {
+     "from": "2023-12-26",
+     "units": 127,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "ba14321e13cd89344ee89168fd7277bba98e57b3fe99f3aba295c609ad4c8bc6"
+    },
+    {
+     "from": "2023-12-27",
+     "units": 143,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "9faea06f299d27fe21a00f3814a8815d14727c0d19857448292a5c1122f1ee34"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Republic of Bashkortostan: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region02",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "f4a2988f3158795a317ea69b2571b98f4509c2a26793bd9ed76c953b9d388d03"
+    },
+    {
+     "from": "2024-03-05",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "7f57d88014c52ca5a9bd6269fe2f6ea848e5e3ba7f89a1f9de0ada8606874cc9"
+    },
+    {
+     "from": "2024-04-12",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "6f21b76a163428cc2e36e2b4ff434040056e122c1de78628271b94fddbfe91b3"
+    },
+    {
+     "from": "2024-04-15",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "6dfc306596c3eb6f3380835e43328368149d2667ed6aa63f445bb8272cfa120a"
+    },
+    {
+     "from": "2024-05-03",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "0fd1482395c3af690a30d4ceb4956717c5f9d3f7750a5a39c8c6e18e8b91ccd0"
+    },
+    {
+     "from": "2024-05-27",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "d1c16e9db1246ac2c4a0aadd558e1b8c09b0d3476adb0e58e01e2438c9102bfb"
+    },
+    {
+     "from": "2024-06-13",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "a8b149347b6b3642381da88c6f33eb5bea07aaee5f41847dbc9b1e832a155b07"
+    },
+    {
+     "from": "2024-06-18",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "cca8221ba9c5c4c50762bbf02f2ce131055927d3a88cbb29a65f507ead9b8774"
+    },
+    {
+     "from": "2024-07-04",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "1cec2647c6d800aea907855f77277cc9ae68b38dbd2cddcafba5d241e1ad16d9"
+    },
+    {
+     "from": "2024-09-27",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "70e873439a3efab11b1a3bb36bc6881db7e418f86bbcf466db333188a563bda5"
+    },
+    {
+     "from": "2024-11-07",
+     "units": 130,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "97eb1426d2340c7fb825131b6f2bad2d1879f180aadc2ccb68ddfcbe8f5c1d62"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 135,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "0a781273729791569dad33a2d3784a7e25c8b8fe306fef5b40d8bbe6a1eaecb3"
+    },
+    {
+     "from": "2024-12-10",
+     "units": 146,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "f83f601e3e981ebaf9302c4be69e356256f26765cfc891dabefc3aee61469bf0"
+    },
+    {
+     "from": "2024-12-28",
+     "units": 165,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "67179f2e3c804748feec9fde30abd74225c56025cc10f8bc64c026af903a1605"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Republic of Bashkortostan: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region02",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "5adb71d0a2db50c773ee1230660671129bfc02e959ef662ebb61a81f27de3da4"
+    },
+    {
+     "from": "2025-02-14",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "1b850a7f23f08c21402e4150414b04edf7470ac83874c3116926f5bb321f1f64"
+    },
+    {
+     "from": "2025-03-06",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "8062f282644319d727a9fc2c4355e031b4cf907ad0ae3c9c1e6e8cfd59e95530"
+    },
+    {
+     "from": "2025-04-02",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "09c6422ef4b8ea11878de0e863d4109da0824b1e7374537f26301d8de60b59d7"
+    },
+    {
+     "from": "2025-04-30",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "02854735ccd78400bbdd4d8f44ef6ee2e2bd3e392520b440f06ce7900fbddc04"
+    },
+    {
+     "from": "2025-05-07",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "68d03a5bf303073ae6d260f70c6021f985d6850d2b5b10e1ca87d29804d71a8e"
+    },
+    {
+     "from": "2025-06-10",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "11cef8c2cdd17479bcba14acd0871dc2909888481b69d3c7cc3109d9f65e7aa3"
+    },
+    {
+     "from": "2025-07-04",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "cae867f528d2f0f22a4d7dafe7ead30e0e1113b87dc62bebcafc4a58b55e0c3c"
+    },
+    {
+     "from": "2025-07-07",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "3ab9ade3d57b4671e74c7f52251ad1aa8e10099da31c51cd10223e3fc6e79c13"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "d93c1b0252121d9e85156b8b25904b31458be9b14d3f34692673089222660bb4"
+    },
+    {
+     "from": "2025-10-03",
+     "units": 118,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "a050a4587c9612f772dbb486ea9d6f2ccf87413fc520d2706fadde11b2781a1b"
+    },
+    {
+     "from": "2025-11-12",
+     "units": 130,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "ac737077e03f50a4367231ba82916bcbc39f11495cf045d97d6cc1388d69a047"
+    },
+    {
+     "from": "2025-11-19",
+     "units": 131,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "b27611b203c7a1ca10f69c3e133592c41da89fb0dd33a52548dd48748ac493a6"
+    },
+    {
+     "from": "2025-12-03",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "1f6d559710a07711565d8ce8cc83d42a1006af64bf86a2890a774fbaf9cc0e26"
+    },
+    {
+     "from": "2025-12-09",
+     "units": 149,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "09a9d11d859fee5fd6c83bc1f915719611f91931a10f1258e86080e34bda8d3b"
+    },
+    {
+     "from": "2025-12-26",
+     "units": 175,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "8399b47a7afda0c17dad9a6ca1a00b01d36df40ab7516e57e3287a0373db02e3"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Republic of Bashkortostan: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region02",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "bda2f1520d35962ffaf3025dc706e24c1970c7e47a6a154f0bd3a5bec4e53465"
+    },
+    {
+     "from": "2026-02-04",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "a44a0a8097d591e1913e3f2e065376dedfd0db4daeed65d15f589213c6f65718"
+    },
+    {
+     "from": "2026-03-06",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "09c4ffb589c7dc32b4e5e365337c2404bfc2ad1456959d498e2e910dd5c68c59"
+    },
+    {
+     "from": "2026-03-18",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "d58aeab8c0b10fd6c22ad8e15a7af0a556478487d21f723d2de8989fc99c91fd"
+    },
+    {
+     "from": "2026-04-06",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "25ec2afeacd811a1d3f5cd43cbb972592f6b37fbda32f6a64ab9c3f7266d0e68"
+    },
+    {
+     "from": "2026-05-05",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "90b37272b26aa6a9ac329f7d5e1f6d51fe133f20ca7e465be9e6cf6e02b22afc"
+    },
+    {
+     "from": "2026-06-09",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "c71bceab88dce6fc54db7774e8521a835733cbfeb4db3b7fb201a9afc00d5454"
+    },
+    {
+     "from": "2026-07-03",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "79dcf1c5dd5409e7351f25f4bc69f55e34534beb641db3d259810534f8fe41fe"
+    },
+    {
+     "from": "2026-07-06",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "38f9866ef589e2962044c7d276d8ebfec9382ff28420ee27f2d3f7e2116d382b"
+    },
+    {
+     "from": "2026-07-09",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "3c469e10ccec194a0093dc4ed87afca093c0a760e3610db1ddec50df729127c4"
+    },
+    {
+     "from": "2026-07-10",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "ff2b1d4f11c95d31f48514b9a4a90d3bc7670d390921adeed05b6b32a6cec870"
+    },
+    {
+     "from": "2026-07-22",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "f3db549eea0a34d2837eb8d27c7820a2aedf35af06f347ba5c95caeb799ca046"
+    },
+    {
+     "from": "2026-08-21",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "4c75b0f19567d5f9459d8be80a8521e17cd225086615df64ee86e5cbaf196262"
+    },
+    {
+     "from": "2026-10-05",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region02",
+     "sha256": "e7e53b84208ea62a166338d0ff4e9742c80ca2e9cc1a1f2e24962b92037dc9bf"
+    }
+   ]
+  }
+ ]
+}

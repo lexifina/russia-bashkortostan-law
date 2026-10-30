@@ -1,0 +1,11 @@
+{
+  "path": "ru-ba",
+  "code": "RU-BA",
+  "name": "Republic of Bashkortostan",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-bashkortostan-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
