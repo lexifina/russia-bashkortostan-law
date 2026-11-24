@@ -1,0 +1,28 @@
+{
+ "sources": [
+  {
+   "id": "pravo-bashkortostan",
+   "kind": "legislation",
+   "name": {
+    "en": "Republic of Bashkortostan: Official Internet Portal of Legal Information (region02)",
+    "ru": "Republic of Bashkortostan: Официальный интернет-портал правовой информации (region02)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region02",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/bashkortostan/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-bashkortostan-law",
+   "group": "pravo"
+  }
+ ]
+}
