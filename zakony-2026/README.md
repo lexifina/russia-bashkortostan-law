@@ -1,6 +1,6 @@
 # Republic of Bashkortostan: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 14 versions, from 2026-01-30 (latest in force: 2026-10-05) · <http://publication.pravo.gov.ru/documents/block/region02>
+Законы 2026 · 15 versions, from 2026-01-30 (latest in force: 2026-11-10) · <http://publication.pravo.gov.ru/documents/block/region02>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -98,3 +98,5 @@
 | Закон № 499-з | [499-z.md](499-z.md) | 1 | 2026-10-05 |
 | Закон № 500-з | [500-z.md](500-z.md) | 1 | 2026-10-05 |
 | Закон № 501-з | [501-z.md](501-z.md) | 1 | 2026-10-05 |
+| Закон № 516-з | [516-z.md](516-z.md) | 1 | 2026-11-10 |
+| Закон № 517-з | [517-z.md](517-z.md) | 1 | 2026-11-10 |
