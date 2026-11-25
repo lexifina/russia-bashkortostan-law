@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:52:05Z",
+ "generated": "2026-11-25T06:58:07Z",
  "latest": {
   "pravo-bashkortostan|russia/bashkortostan/acts": {
    "attempt": 1,
@@ -13,62 +13,42 @@
    },
    "census": {
     "checked": 1396,
-    "current": 1394,
+    "current": 1396,
     "gone": 0,
-    "held": 1394,
-    "newest_in_repo": "2026-10-05",
-    "pending": 2,
-    "repo": 1394,
+    "held": 1396,
+    "newest_in_repo": "2026-11-10",
+    "pending": 0,
+    "repo": 1396,
     "source_in_scope": 1396
    },
-   "check_id": "ru-pravo-bashkortostan-20261124T124930Z",
-   "commits": {
-    "count": 2,
-    "from": "6ee98f35a3eafa48b402541d7e32a76fb37a2b47",
-    "to": "c9171f5b6ab30157abe6211209e6bcd47fb2c2ba"
-   },
+   "check_id": "ru-pravo-bashkortostan-20261125T051619Z",
+   "commits": null,
    "corpus": "russia/bashkortostan/acts",
    "error": null,
-   "finished": "2026-11-24T12:52:05Z",
+   "finished": "2026-11-25T05:16:56Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region02: 1396 law-type documents listed (every page read); 1394 held here; 2 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region02: 1396 law-type documents listed (every page read); 1396 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "0200202611100001",
-     "0200202611100002"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "requests": 10,
-   "runner": "lawwatch russia (a5c4306c67)",
+   "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "0200202611100001",
-     "0200202611100002"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1396 law-type documents in block region02; newest published 2026-11-10",
    "source": "pravo-bashkortostan",
-   "started": "2026-11-24T12:49:30Z",
+   "started": "2026-11-25T05:16:19Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,

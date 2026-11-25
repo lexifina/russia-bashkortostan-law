@@ -22,7 +22,8 @@
    ],
    "interval": 3.2,
    "repo": "russia-bashkortostan-law",
-   "group": "pravo"
+   "group": "pravo",
+   "tz": "Asia/Yekaterinburg"
   }
  ]
 }
