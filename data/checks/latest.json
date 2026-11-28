@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:07:43Z",
+ "generated": "2026-11-28T06:22:03Z",
  "latest": {
   "pravo-bashkortostan|russia/bashkortostan/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1396,
     "source_in_scope": 1396
    },
-   "check_id": "ru-pravo-bashkortostan-20261127T051453Z",
+   "check_id": "ru-pravo-bashkortostan-20261128T052309Z",
    "commits": null,
    "corpus": "russia/bashkortostan/acts",
    "error": null,
-   "finished": "2026-11-27T05:15:26Z",
+   "finished": "2026-11-28T05:23:44Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region02: 1396 law-type documents listed (every page read); 1396 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1396 law-type documents in block region02; newest published 2026-11-10",
    "source": "pravo-bashkortostan",
-   "started": "2026-11-27T05:14:53Z",
+   "started": "2026-11-28T05:23:09Z",
    "unexplained": 0,
    "update": {
     "parts": []
